@@ -1,2 +1,2 @@
 # material
-Presentations and papers
+Papers and presentations from public talks
